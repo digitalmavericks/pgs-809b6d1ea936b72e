@@ -1,2 +1,4 @@
-# pgs-809b6d1ea936b72e
-Public ungated standalone document copies
+Public ungated HTML copies of two documents. Anyone with the link can open them with no login.
+
+- [BotlyIQ Founders Beta: adversarial audit](./botlyiq-founders-beta-audit/)
+- [Fleet wiring plan: Grok Bot as a peer in _Handoffs + Paperclip](./fleet-wiring-plan/)
